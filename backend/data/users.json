@@ -1,0 +1,26 @@
+[
+  {
+    "id": "USR-ADMIN-001",
+    "name": "System Administrator",
+    "email": "admin@projecthub.com",
+    "password": "$2b$10$I2NlFXq/rCLyF9LOysuRKump.B7xWS.kXUp/qzmWK3q7KO8.PeJAa",
+    "role": "ADMIN",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "USR-1790675319281",
+    "name": "mohit",
+    "email": "mohitambaliya605@gmail.com",
+    "password": "$2b$10$W0sYA7aMPxuHrmIVFpIl6OeasvbIOxxSF5XM3jWsDEDZj.i46QfHG",
+    "role": "MANAGER",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "USR-1790675346856",
+    "name": "rahul",
+    "email": "rahul999@gmail.com",
+    "password": "$2b$10$GlpurKy3ZxzrxBwWjHUrseBUMMn13tH97x9xHwITxm/rjgL3DVAJK",
+    "role": "MEMBER",
+    "status": "ACTIVE"
+  }
+]

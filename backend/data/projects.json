@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Website Redesign",
+    "key": "WEB",
+    "description": "Redesign the company website",
+    "status": "Active",
+    "members": 8,
+    "dueDate": "2026-10-15",
+    "progress": 72
+  },
+  {
+    "id": "2",
+    "name": "Mobile App",
+    "key": "APP",
+    "description": "Build the new mobile application",
+    "status": "Active",
+    "members": 12,
+    "dueDate": "2026-11-02",
+    "progress": 48
+  },
+  {
+    "id": "3",
+    "name": "Internal Tools",
+    "key": "TOOLS",
+    "description": "Improve internal productivity tools",
+    "status": "Planning",
+    "members": 5,
+    "dueDate": "2026-12-10",
+    "progress": 20
+  },
+  {
+    "id": "4",
+    "name": "Marketing Campaign",
+    "key": "MKT",
+    "description": "Q4 marketing campaign",
+    "status": "Completed",
+    "members": 6,
+    "dueDate": "2026-09-30",
+    "progress": 100
+  }
+]
